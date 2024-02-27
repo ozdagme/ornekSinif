@@ -1,0 +1,2 @@
+# ornekSinif
+kurulum aciklamasi.
